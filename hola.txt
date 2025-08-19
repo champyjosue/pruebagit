@@ -1,3 +1,6 @@
 Hola que tal, nombre es kiara!
 
 Haciendo modificaciones desde pruebaGit (con usuario1)
+
+
+Haciendo otra modificación de prueba desde el repo local en pruebaGIt (usuario1)
